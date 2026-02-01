@@ -57,7 +57,9 @@ Selecionar plano
 Definir o nome
 ![Fluxo](imagens/Screenshot_4.png)
 
+Selecionar o Integration Runtime
 ![Fluxo](imagens/Screenshot_5.png)
+
 
 ![Fluxo](imagens/Screenshot_6.png)
 
