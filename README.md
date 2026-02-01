@@ -33,7 +33,7 @@ Ele atua após a modelagem do iFlow, no momento em que a integração entra em e
 - **Processar mensagens**
 - **Orquestrar fluxos**
 - **Aplicar transformações**
-- **Gerenciar conectividade**
+- **Gerenciar ectividade**
 - **Garantir segurança e monitoramento**
 
 ## 🔄 Fluxo de Execução
@@ -43,7 +43,7 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ### Fluxo simplificado:
 
 ---
-## 🔄 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
+## 🔄 Exemplo prático – Como utilizar para um cenário de Demonstração como configurar é utilizar. (Não recomendado em Produção)
 
 ### Criando nosso Integration Runtime
 ![Fluxo](imagens/Screenshot_1.png)
