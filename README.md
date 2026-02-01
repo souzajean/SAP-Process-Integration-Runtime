@@ -72,7 +72,7 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ### Dados de configuração da Serve Key do Integration Runtime
 ![Fluxo](imagens/Screenshot_9.png)
 
-### Postmam procurar pela Variáveis
+### Postman procurar pela Variáveis
 ![Fluxo](imagens/Screenshot_10.png)
 
 ### Selecionar Todas as Variáveis
