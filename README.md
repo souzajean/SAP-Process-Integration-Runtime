@@ -75,10 +75,10 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ### Postmam procurar pela Variáveis
 ![Fluxo](imagens/Screenshot_10.png)
 
-Selecionar
+### Selecionar Todas as Variáveis
 ![Fluxo](imagens/Screenshot_11.png)
 
-Selecionar
+### Criando os segredos
 ![Fluxo](imagens/Screenshot_12.png)
 
 ```
