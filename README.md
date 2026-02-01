@@ -48,10 +48,13 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 Criando nosso Integration Runtime
 ![Fluxo](imagens/Screenshot_1.png)
 
+Pesquisar pelo Integration Runtime
 ![Fluxo](imagens/Screenshot_2.png)
 
+Selecionar plano
 ![Fluxo](imagens/Screenshot_3.png)
 
+Definir o nome
 ![Fluxo](imagens/Screenshot_4.png)
 
 ![Fluxo](imagens/Screenshot_5.png)
