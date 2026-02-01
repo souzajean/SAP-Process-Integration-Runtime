@@ -36,43 +36,26 @@ Ele atua após a modelagem do iFlow, no momento em que a integração entra em e
 - **Gerenciar conectividade**
 - **Garantir segurança e monitoramento**
 
-
-
 ## 🔄 Fluxo de Execução
 
 O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em que a integração entra em execução.
 
 ### Fluxo simplificado:
 
-
-## 📦 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
-
-
-
-
 ---
-
-## 📥 Exemplo de Payload JSON
-
-O JSON utilizado no teste pode ser encontrado em:
-
-📄 [`json/ordens.json`](json/ordens.json)
-
-```json
-{
-  "Orders": {
-    "Pedidos": [
-      { "id": 1, "value": 100 },
-      { "id": 2, "value": 200 },
-      { "id": 3, "value": 300 }
-    ]
-  }
-}
-```
-
-## 🔄 Fluxo do iFlow
+## 🔄 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
 
 ![Fluxo](imagens/Screenshot_1.png)
+
+```
+
+
+
+
+
+##  Fluxo do iFlow
+
+
 ![Fluxo](imagens/Screenshot_2.png)
 ![Fluxo](imagens/Screenshot_3.png)
 ![Fluxo](imagens/Screenshot_4.png)
