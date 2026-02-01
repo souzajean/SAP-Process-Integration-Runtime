@@ -1,11 +1,104 @@
 # 🔀 SAP-Process-Integration-Runtime
 ## SAP BTP CPI - SAP Process Integration Runtime
 
-SAP Cloud Integration (CPI)
 
-Este repositório demonstra como receber um JSON via REST, converter para XML e utilizar o **General Splitter** no **SAP Cloud Integration (CPI)** para processar cada item individualmente.
+Este repositório demonstra como o SAP Process Integration Runtime é o componente essencial que torna as integrações do SAP Integration Suite realmente operacionais.
+Ele garante que os iFlows sejam executados com segurança, desempenho e confiabilidade, conectando diferentes sistemas dentro e fora do ecossistema SAP.
+
+Para qualquer cenário de integração no SAP BTP, entender o funcionamento do Runtime é fundamental para arquiteturas robustas e escaláveis.
 
 ![Capa](imagens/capa-linkedin.png)
+
+
+## O que é o SAP Process Integration Runtime?
+
+O SAP Process Integration Runtime é o motor de execução dos cenários de integração criados no Cloud Integration (CPI).
+Tudo o que você modela no iFlow só funciona em produção porque o Process Integration Runtime executa essas integrações.
+
+### Ele é responsável por:
+
+* Processar mensagens
+
+* Orquestrar fluxos
+
+* Aplicar transformações
+
+* Gerenciar conectividade
+
+* Garantir segurança e monitoramento
+
+* Onde o Process Integration Runtime atua?
+
+* Ele atua após a modelagem do iFlow, no momento em que a integração entra em execução.
+
+### Fluxo simplificado:
+
+* O iFlow é modelado no Cloud Integration
+
+* O iFlow é deployado
+
+* O Process Integration Runtime executa o fluxo
+
+* As mensagens são processadas entre sistemas
+
+### Principais responsabilidades do Process Integration Runtime
+1. Execução dos iFlows
+
+* Processa mensagens síncronas e assíncronas
+
+* Controla etapas como roteamento, mapeamento e validação
+
+2. Orquestração de Integrações
+
+* Define a sequência de chamadas
+
+* Gerencia paralelismo e condições
+
+* Controla exceções e erros
+
+3. Conectividade
+
+* Suporta diversos adaptadores:
+
+* HTTP / HTTPS
+
+* OData
+
+* SOAP
+
+* SFTP
+
+* IDoc
+
+* RFC
+
+* SuccessFactors, Ariba, etc.
+
+4. Segurança
+
+* Autenticação (OAuth2, Basic, Client Certificate)
+
+* Criptografia
+
+* Armazenamento seguro de credenciais
+
+* Integração com Keystore e Credential Store
+
+5. Monitoramento e Logging
+
+* Monitoramento de mensagens
+
+* Logs técnicos e funcionais
+
+* Reprocessamento de mensagens com erro
+
+* Métricas de performance
+
+
+## 📦 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
+
+
+
 
 ---
 
