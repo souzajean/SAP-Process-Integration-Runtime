@@ -49,29 +49,30 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 
 ![Fluxo](imagens/Screenshot_2.png)
 
+![Fluxo](imagens/Screenshot_3.png)
+
+![Fluxo](imagens/Screenshot_4.png)
+
+![Fluxo](imagens/Screenshot_5.png)
+
+![Fluxo](imagens/Screenshot_6.png)
+
+![Fluxo](imagens/Screenshot_7.png)
+
+![Fluxo](imagens/Screenshot_8.png)
+
+![Fluxo](imagens/Screenshot_9.png)
+
+![Fluxo](imagens/Screenshot_10.png)
+
+![Fluxo](imagens/Screenshot_11.png)
+
 ```
 
 
 
 
 
-##  Fluxo do iFlow
-
-
-
-![Fluxo](imagens/Screenshot_3.png)
-![Fluxo](imagens/Screenshot_4.png)
-![Fluxo](imagens/Screenshot_5.png)
-![Fluxo](imagens/Screenshot_6.png)
-![Fluxo](imagens/Screenshot_7.png)
-![Fluxo](imagens/Screenshot_8.png)
-![Fluxo](imagens/Screenshot_9.png)
-![Fluxo](imagens/Screenshot_10.png)
-![Fluxo](imagens/Screenshot_11.png)
-
-
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – SPLITTER.zip](Package/SPLITTER.zip)
 
-> O arquivo pode ser importado diretamente no SAP Integration Suite (CPI).
