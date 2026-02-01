@@ -47,6 +47,8 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 
 ![Fluxo](imagens/Screenshot_1.png)
 
+![Fluxo](imagens/Screenshot_2.png)
+
 ```
 
 
@@ -56,7 +58,7 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ##  Fluxo do iFlow
 
 
-![Fluxo](imagens/Screenshot_2.png)
+
 ![Fluxo](imagens/Screenshot_3.png)
 ![Fluxo](imagens/Screenshot_4.png)
 ![Fluxo](imagens/Screenshot_5.png)
