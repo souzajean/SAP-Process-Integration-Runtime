@@ -45,32 +45,31 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ---
 ## 🔄 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
 
-Criando nosso Integration Runtime
+### Criando nosso Integration Runtime
 ![Fluxo](imagens/Screenshot_1.png)
 
-Pesquisar pelo Integration Runtime
+### Pesquisar pelo Integration Runtime
 ![Fluxo](imagens/Screenshot_2.png)
 
-Selecionar plano
+### Selecionar plano
 ![Fluxo](imagens/Screenshot_3.png)
 
-Definir o nome
+### Definir o nome
 ![Fluxo](imagens/Screenshot_4.png)
 
-Selecionar o Integration Runtime
+### Selecionar o Integration Runtime
 ![Fluxo](imagens/Screenshot_5.png)
 
-Selecionar Service key
+### Selecionar Service key
 ![Fluxo](imagens/Screenshot_6.png)
 
-Escrever o nome Service key
-
+### Escrever o nome Service key
 ![Fluxo](imagens/Screenshot_7.png)
 
-Clicar para abrir o Service key
+### Clicar para abrir o Service key
 ![Fluxo](imagens/Screenshot_8.png)
 
-Dados de configuração da Serve Key do Integration Runtime
+### Dados de configuração da Serve Key do Integration Runtime
 ![Fluxo](imagens/Screenshot_9.png)
 
 Selecionar
