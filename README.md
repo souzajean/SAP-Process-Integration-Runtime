@@ -1,98 +1,48 @@
-# 🔀 SAP-Process-Integration-Runtime
+# 🔀 SAP Process Integration Runtime
+
 ## SAP BTP CPI - SAP Process Integration Runtime
 
-
-Este repositório demonstra como o SAP Process Integration Runtime é o componente essencial que torna as integrações do SAP Integration Suite realmente operacionais.
-Ele garante que os iFlows sejam executados com segurança, desempenho e confiabilidade, conectando diferentes sistemas dentro e fora do ecossistema SAP.
+Este repositório demonstra como o **SAP Process Integration Runtime** é o componente essencial que torna as integrações do SAP Integration Suite operacionais. Ele garante que os iFlows sejam executados com segurança, desempenho e confiabilidade, conectando diferentes sistemas dentro e fora do ecossistema SAP.
 
 Para qualquer cenário de integração no SAP BTP, entender o funcionamento do Runtime é fundamental para arquiteturas robustas e escaláveis.
 
 ![Capa](imagens/capa-linkedin.png)
 
+## 📋 Índice
+- [O que é o SAP Process Integration Runtime?](#o-que-é-o-sap-process-integration-runtime)
+- [Fluxo de Execução](#fluxo-de-execução)
+- [Principais Responsabilidades](#principais-responsabilidades)
+  - [1. Execução dos iFlows](#1-execução-dos-iflows)
+  - [2. Orquestração de Integrações](#2-orquestração-de-integrações)
+  - [3. Conectividade](#3-conectividade)
+  - [4. Segurança](#4-segurança)
+  - [5. Monitoramento e Logging](#5-monitoramento-e-logging)
 
-## O que é o SAP Process Integration Runtime?
+## 🚀 O que é o SAP Process Integration Runtime?
 
-O SAP Process Integration Runtime é o motor de execução dos cenários de integração criados no Cloud Integration (CPI).
-Tudo o que você modela no iFlow só funciona em produção porque o Process Integration Runtime executa essas integrações.
+Ele atua após a modelagem do iFlow, no momento em que a integração entra em execução.
 
-### Ele é responsável por:
-
-* Processar mensagens
-
-* Orquestrar fluxos
-
-* Aplicar transformações
-
-* Gerenciar conectividade
-
-* Garantir segurança e monitoramento
-
-* Onde o Process Integration Runtime atua?
-
-* Ele atua após a modelagem do iFlow, no momento em que a integração entra em execução.
 
 ### Fluxo simplificado:
+- **O iFlow é modelado no Cloud Integration**
+- **O iFlow é deployado**
+- **O Process Integration Runtime executa o fluxo**
+- **As mensagens são processadas entre sistemas**
 
-* O iFlow é modelado no Cloud Integration
+## Onde o Process Integration Runtime atua?
+- **Processar mensagens**
+- **Orquestrar fluxos**
+- **Aplicar transformações**
+- **Gerenciar conectividade**
+- **Garantir segurança e monitoramento**
 
-* O iFlow é deployado
 
-* O Process Integration Runtime executa o fluxo
 
-* As mensagens são processadas entre sistemas
+## 🔄 Fluxo de Execução
 
-### Principais responsabilidades do Process Integration Runtime
-1. Execução dos iFlows
+O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em que a integração entra em execução.
 
-* Processa mensagens síncronas e assíncronas
-
-* Controla etapas como roteamento, mapeamento e validação
-
-2. Orquestração de Integrações
-
-* Define a sequência de chamadas
-
-* Gerencia paralelismo e condições
-
-* Controla exceções e erros
-
-3. Conectividade
-
-* Suporta diversos adaptadores:
-
-* HTTP / HTTPS
-
-* OData
-
-* SOAP
-
-* SFTP
-
-* IDoc
-
-* RFC
-
-* SuccessFactors, Ariba, etc.
-
-4. Segurança
-
-* Autenticação (OAuth2, Basic, Client Certificate)
-
-* Criptografia
-
-* Armazenamento seguro de credenciais
-
-* Integração com Keystore e Credential Store
-
-5. Monitoramento e Logging
-
-* Monitoramento de mensagens
-
-* Logs técnicos e funcionais
-
-* Reprocessamento de mensagens com erro
-
-* Métricas de performance
+### Fluxo simplificado:
 
 
 ## 📦 Exemplo prático – Como utilizar para um cenário de Demonstração como confiurar é utilizar. (Não recomendado em Produção)
