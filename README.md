@@ -70,11 +70,4 @@ O Process Integration Runtime atua **após a modelagem do iFlow**, no momento em
 ![Fluxo](imagens/Screenshot_12.png)
 
 ```
-
-
-
-
-
-## 📦 Exemplo prático – iFlow para baixar
-
-
+### 📦 Dessa forma conseguimos pegar o Endponit que o Iflow nos disponibiliza e usar no POSTMAN
