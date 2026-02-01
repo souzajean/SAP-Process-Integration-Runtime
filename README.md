@@ -60,19 +60,25 @@ Definir o nome
 Selecionar o Integration Runtime
 ![Fluxo](imagens/Screenshot_5.png)
 
-
+Selecionar
 ![Fluxo](imagens/Screenshot_6.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_7.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_8.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_9.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_10.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_11.png)
 
+Selecionar
 ![Fluxo](imagens/Screenshot_12.png)
 
 ```
