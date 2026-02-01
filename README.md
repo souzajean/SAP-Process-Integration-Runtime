@@ -60,10 +60,10 @@ Definir o nome
 Selecionar o Integration Runtime
 ![Fluxo](imagens/Screenshot_5.png)
 
-Selecionar
+Selecionar Service key
 ![Fluxo](imagens/Screenshot_6.png)
 
-Selecionar
+Escrever o nome Service key
 ![Fluxo](imagens/Screenshot_7.png)
 
 Selecionar
